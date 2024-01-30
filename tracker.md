@@ -7,3 +7,6 @@ Date, workout, 30 mins personal activity
 01-24, workout + gym, research 1x
 01-25, no workout, looked for housing
 01-26, workout, veritasium 
+01-27, workout, apartment tours
+01-28, no workout, MITLL work
+01-29, game pushups, MITLL work
