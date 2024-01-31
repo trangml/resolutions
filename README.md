@@ -12,3 +12,7 @@ New years resolutions app
 8. Get top 10 in a Kaggle or AIcrowd competition
 9. Play more basketball
 10. Spend less time on time-wasting apps or games
+
+Additional goals that are not quite resolutions
+1. read and write about a paper a week
+2. make a learning plan of what I want to work on each day. 
