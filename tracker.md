@@ -11,3 +11,4 @@ Date, workout, 30 mins personal activity
 01-28, no workout, MITLL work
 01-29, game pushups, MITLL work
 01-30, workout, read attention is all you need
+01-31, bball+gym+game pushups, apartment shopping and jdh
