@@ -14,3 +14,5 @@ Date, workout, 30 mins personal activity
 01-31, bball+gym+game pushups, apartment shopping and jdh
 
 02-01, 10 mins pushups+situps, Transformer model implementation
+02-02, game pushups, read transformer paper and palm saycan
+02-03, workout, read palm saycan and MT-opt wrote a bit on blog
