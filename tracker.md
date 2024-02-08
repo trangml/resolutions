@@ -18,3 +18,5 @@ Date, workout, 30 mins personal activity
 02-03, workout, read palm saycan and MT-opt wrote a bit on blog
 02-04, game pushups + cardio, read RL papers and reviewed robot learning fundamentals
 02-05, 10 mins pushups+situps, review robot learning + worked on blog
+02-06, game pushups, trivia night + presidents
+02-07, 10 mins pushups+situps, nothing
