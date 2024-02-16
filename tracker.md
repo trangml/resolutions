@@ -22,3 +22,9 @@ Date, workout, 30 mins personal activity
 02-07, 10 mins pushups+situps, nothing
 02-08, 10 mins pushups+situps, generative ai experiments
 02-09, level 99 no pushups, presidents
+02-10, walked around cambridge, trivia
+02-11, game pushups, trivia
+02-12, pushups, youtube learning
+02-13, no workout, trivia night
+02-14, no workout, valentines
+02-15, treadmill, coding
