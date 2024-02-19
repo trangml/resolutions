@@ -28,3 +28,6 @@ Date, workout, 30 mins personal activity
 02-13, no workout, trivia night
 02-14, no workout, valentines
 02-15, treadmill, coding
+02-16, 10 mins pushups and situps, trivia
+02-17, walked + 10 mins pushups and situps, presidents and some coding
+02-18, game pushups and squats, countries of the world
