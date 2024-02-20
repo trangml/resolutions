@@ -31,3 +31,4 @@ Date, workout, 30 mins personal activity
 02-16, 10 mins pushups and situps, trivia
 02-17, walked + 10 mins pushups and situps, presidents and some coding
 02-18, game pushups and squats, countries of the world
+02-19, gym workout, programming computer_assistant
