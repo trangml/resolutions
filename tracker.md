@@ -32,3 +32,13 @@ Date, workout, 30 mins personal activity
 02-17, walked + 10 mins pushups and situps, presidents and some coding
 02-18, game pushups and squats, countries of the world
 02-19, gym workout, programming computer_assistant
+02-20, pushups, Pokemon Trivia night
+02-21, pushups? maybe gym?, misc trivia
+02-22, game pushups, idk
+02-23, vacation!
+02-24, vacation!
+02-25, vacation!
+02-26, vacation!
+02-27, game pushups, searching for housing
+02-28, 10 mins pushups and situps, doing taxes :(
+02-29, game pushups, doing taxes :(
