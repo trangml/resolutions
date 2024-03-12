@@ -42,3 +42,12 @@ Date, workout, 30 mins personal activity
 02-27, game pushups, searching for housing
 02-28, 10 mins pushups and situps, doing taxes :(
 02-29, game pushups, doing taxes :(
+
+03-01, 
+03-05, no workout, trivia night
+
+03-07, nothing 
+03-08, game pushups, gaming
+03-09, walked 8 miles @ Middlesex fells,just gaming
+03-10, game pushups, just gaming
+03-11, gym, veritasium perfect odds vid
