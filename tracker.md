@@ -51,3 +51,11 @@ Date, workout, 30 mins personal activity
 03-09, walked 8 miles @ Middlesex fells,just gaming
 03-10, game pushups, just gaming
 03-11, gym, veritasium perfect odds vid
+03-12, walk + game pushups, gaming
+03-13, ??, updated resume
+03-14, game pushups, gaming
+03-15, no workout, escape room
+03-16, game pushups, Boston Museum of Science
+03-17, no workout, made dinner for friends
+03-18, 10 mins pushups+situps, srush tensor puzzles
+
