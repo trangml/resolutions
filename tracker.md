@@ -58,4 +58,12 @@ Date, workout, 30 mins personal activity
 03-16, game pushups, Boston Museum of Science
 03-17, no workout, made dinner for friends
 03-18, 10 mins pushups+situps, srush tensor puzzles
+03-19, Catherine's birthday!!!!
+03-20,game pushups, 
+03-21,
+03-22,game pushups, 
+03-23, none, moving apartments
+03-24,none, moving apartments
+03-25,none, moving apartments
+03-26,, trivia night
 
