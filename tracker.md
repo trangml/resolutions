@@ -66,4 +66,7 @@ Date, workout, 30 mins personal activity
 03-24,none, moving apartments
 03-25,none, moving apartments
 03-26,, trivia night
+03-27, no workout, moving apartments
+03-28, no workout, moving apartments 
+03-29, game pushups, 
 
