@@ -68,5 +68,10 @@ Date, workout, 30 mins personal activity
 03-26,, trivia night
 03-27, no workout, moving apartments
 03-28, no workout, moving apartments 
-03-29, game pushups, 
+03-29, game pushups, no learning
+03-30, walk+pokemon go, no learning
+03-31, game pushups, no learning
+
+04-01, 10 mins pushups, no learning
+04-02, 10 mins workout+game pushups, tensor puzzles
 
