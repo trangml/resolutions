@@ -74,4 +74,7 @@ Date, workout, 30 mins personal activity
 
 04-01, 10 mins pushups, no learning
 04-02, 10 mins workout+game pushups, tensor puzzles
+04-03, game pushups, fire emblem 
+04-04, 10 mins pushups, fire emblem
+04-05, game pushups, building desk
 
