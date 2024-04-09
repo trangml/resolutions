@@ -77,4 +77,7 @@ Date, workout, 30 mins personal activity
 04-03, game pushups, fire emblem 
 04-04, 10 mins pushups, fire emblem
 04-05, game pushups, building desk
+04-06, workout at gym, fire emblem
+04-07, walked 2hrs + pushups, library
+04-08, workout at gym, reading
 
