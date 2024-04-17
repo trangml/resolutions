@@ -80,4 +80,12 @@ Date, workout, 30 mins personal activity
 04-06, workout at gym, fire emblem
 04-07, walked 2hrs + pushups, library
 04-08, workout at gym, reading + transformers 3b1b
+04-09, game pushups
+04-10, game pushups, 
+04-11, sick, nothing
+04-12, sick, nothing
+04-13, sick + walked, rendering text seblangue
+04-14, sick, Taiwan defenses
+04-15, sick, crash course tuberculosis 
+04-16, sick, Middle East tension reallifelore
 
