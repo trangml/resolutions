@@ -88,4 +88,5 @@ Date, workout, 30 mins personal activity
 04-14, sick, Taiwan defenses
 04-15, sick, crash course tuberculosis 
 04-16, sick, Middle East tension reallifelore
+04-17, lazy + still recovering, history of china
 
