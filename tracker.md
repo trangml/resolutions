@@ -89,4 +89,9 @@ Date, workout, 30 mins personal activity
 04-15, sick, crash course tuberculosis 
 04-16, sick, Middle East tension reallifelore
 04-17, lazy + still recovering, history of china
+04-18,lazy, 
+04-19,lazy, 
+04-20,lazy, went to library
+04-21, game pushups, no learning
+04-22, gym workout, Russia v NATO reallifelore
 
