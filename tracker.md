@@ -94,4 +94,6 @@ Date, workout, 30 mins personal activity
 04-20,lazy, went to library
 04-21, game pushups, no learning
 04-22, gym workout, Russia v NATO reallifelore
+04-23, basketball, Ollama running locally
+
 
