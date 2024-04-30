@@ -95,5 +95,12 @@ Date, workout, 30 mins personal activity
 04-21, game pushups, no learning
 04-22, gym workout, Russia v NATO reallifelore
 04-23, basketball, Ollama running locally
+04-24,
+04-25,
+04-26, 20 min walk, made stew 
+04-27, aerobics, Catherine's family visited
+04-28, pushups, programming React-Native MeemowBot app using Ollama
+04-29, game pushups, programming React-Native MeemowBot app: focusing on whisper api
+
 
 
