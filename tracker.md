@@ -101,6 +101,9 @@ Date, workout, 30 mins personal activity
 04-27, aerobics, Catherine's family visited
 04-28, pushups, programming React-Native MeemowBot app using Ollama
 04-29, game pushups, programming React-Native MeemowBot app: focusing on whisper api
+04-30, pushups, meemow app
+
+05-01, pushups, read I robot 
 
 
 
