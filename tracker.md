@@ -104,6 +104,9 @@ Date, workout, 30 mins personal activity
 04-30, pushups, meemow app
 
 05-01, pushups, read I robot 
-
+05-02, gym, read scene graph papers
+05-03, basketball, reading VLFM paper
+05-04, pushups, reading I robot
+05-05, pushups + walked, finished reading I robot
 
 
