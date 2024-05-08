@@ -108,5 +108,7 @@ Date, workout, 30 mins personal activity
 05-03, basketball, reading VLFM paper
 05-04, pushups, reading I robot
 05-05, pushups + walked, finished reading I robot
+05-06,pickleball and basketball, learning how to play pickleball
+05-07, game pushups, trivia night
 
 
