@@ -110,5 +110,12 @@ Date, workout, 30 mins personal activity
 05-05, pushups + walked, finished reading I robot
 05-06,pickleball and basketball, learning how to play pickleball
 05-07, game pushups, trivia night
-
+05-08, pushups, 3d printer research
+05-09, game pushups + basketball,
+05-10, 
+05-11,
+05-12, game pushups 
+05-13,some pushups, gaming 
+05-14,basketball,no learning 
+05-15,none, trivia night
 
