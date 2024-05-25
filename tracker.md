@@ -118,4 +118,14 @@ Date, workout, 30 mins personal activity
 05-13,some pushups, gaming 
 05-14,basketball,no learning 
 05-15,none, trivia night
+05-16,none
+05-17,pickleball, 
+05-18, museum of science
+05-19,walked along spy pond
+05-20, pickleball gym, veritasium
+05-21,none, trivia night
+05-22,basketball + gym,
+05-23,pickleball + gym,china vs India tension
+05-24,beach volleyball, potted plant arc
+
 
