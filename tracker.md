@@ -127,5 +127,10 @@ Date, workout, 30 mins personal activity
 05-22,basketball + gym,
 05-23,pickleball + gym,china vs India tension
 05-24,beach volleyball, potted plant arc
+05-25,pickleball, played fire emblem
+05-26,volleyball, played fire emblem
+05-27,pickleball + basketball, watched Godzilla and dune 2
+05-28,pushups, watched anime
+05-29,gym, healthy gamer gg podcast
 
 
