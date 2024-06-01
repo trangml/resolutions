@@ -132,5 +132,8 @@ Date, workout, 30 mins personal activity
 05-27,pickleball + basketball, watched Godzilla and dune 2
 05-28,pushups, watched anime
 05-29,gym, healthy gamer gg podcast
+05-30, pickleball 
+05-31, volleyball 
+06-01, volleyball 
 
 
