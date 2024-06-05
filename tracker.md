@@ -135,7 +135,7 @@ Date, workout, 30 mins personal activity
 05-30, pickleball 
 05-31, volleyball 
 06-01, volleyball 
-06-02, shopping, video games
+06-02, shopping, video games + reading Project Hail Mary 
 06-03, pickleball + gym, 3d printer
 06-04, , trivia night 
 
