@@ -138,4 +138,8 @@ Date, workout, 30 mins personal activity
 06-02, shopping, video games + reading Project Hail Mary 
 06-03, pickleball + gym, 3d printer
 06-04, , trivia night 
-
+06-05,pickleball,read chapter of project hail mary
+06-06,
+06-07, 100 situps, worked late
+06-08,gym + 100 situps,
+06-09, walked + 100 situps + pickleball 
