@@ -143,3 +143,10 @@ Date, workout, 30 mins personal activity
 06-07, 100 situps, worked late
 06-08,gym + 100 situps,
 06-09, walked + 100 situps + pickleball 
+06-10,100 situps,
+06-11,100 situps,
+06-12,100 situps,
+06-13,100 situps,
+06-14,100 situps, seb langue coding rendering video
+06-15, 100 situps + volleyball,3d printing stuff
+
