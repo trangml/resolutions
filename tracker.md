@@ -150,3 +150,5 @@ Date, workout, 30 mins personal activity
 06-14,100 situps, seb langue coding rendering video
 06-15, 100 situps + volleyball,3d printing stuff
 
+07-01, pickleball + 100 situps, reading about TTS libraries + looking into ARC AGI + brainstorming project ideas
+
